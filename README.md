@@ -25,7 +25,7 @@ Maybe this works. Please tell me if it was wrong.
 
 ## How it works
 
-The same script `app.js` works in both front-end and back-end.
+The same script `app.js` works in both main page and devtools panel (which I call "front-end" and "back-end" respectively).
 Front-end program sends msg to back-end, and back-end program receives and processes it.
 
 This requires some changes in elm-lang/virtual-dom package, but it is not a great deal.
